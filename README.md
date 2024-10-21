@@ -6,11 +6,12 @@ A simple **Captcha Generator** built with **HTML**, **CSS**, and **JavaScript** 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 
-<img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/game%20board/Screenshot%202024-10-19%20122227.png" width="800" >
+<img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/Demo_images/Screenshot%202024-10-19%20122227.png" width="800">
 
 <img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/Demo_images/Screenshot%202024-10-19%20120018.png" width="800">
 
-<img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/game%20board/Screenshot%202024-10-19%20122252.png" width="800" >
+<img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/Demo_images/Screenshot%202024-10-19%20122252.png" width="800">
+
 
 
 
