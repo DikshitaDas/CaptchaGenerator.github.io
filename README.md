@@ -8,7 +8,7 @@ A simple **Captcha Generator** built with **HTML**, **CSS**, and **JavaScript** 
 
 <img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/game%20board/Screenshot%202024-10-19%20122227.png" width="800" >
 
-<img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/game%20board/Screenshot%202024-10-19%20120018.png" width="800" >
+<img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/Demo_images/Screenshot%202024-10-19%20120018.png" width="800">
 
 <img src="https://github.com/DikshitaDas/CaptchaGenerator.github.io/blob/main/game%20board/Screenshot%202024-10-19%20122252.png" width="800" >
 
