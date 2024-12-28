@@ -1,4 +1,4 @@
-# 🔐 Captcha Generator
+# 🔐 Captcha Generator 
 
 A simple **Captcha Generator** built with **HTML**, **CSS**, and **JavaScript** to generate random captcha codes for validation purposes.
 
